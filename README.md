@@ -12,7 +12,7 @@ I am passionate about creating websites that users enjoy interacting with. I am 
 If you would like to learn more about me, you can connect with me on LinkedIn, send me an email or even grab a coffee. ☕</div>  
   
 
-- 🔭 I’m currently working on [Alkabiz](https://github.com/DRACKSBOYVEVO/Alkabiz)  
+- 🔭 I’m currently working on [Alkabiz](https://www.linkedin.com/company/alkabiz)  
   
 
 - 🌱 I am currently learning .NET 6, C#, Angular 14, PosgreSQL.  
